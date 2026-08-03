@@ -74,9 +74,3 @@ During the installation process, a few issues were encountered and successfully 
 3. **Missing File Directory Error (`No such file or directory`):**
 * **Problem:** Attempting to source the environment before the ROS package was fully installed resulted in a missing file error.
 * **Solution:** Ensured the `sudo apt install ros-humble-desktop -y` command completed its execution fully before setting up the bash environment variables.
-
-
-
----
-
-انسخي هذا المحتوى وضعيه مباشرة في ملف الـ `README.md` الخاص بمشروعك على جيت هب، وبالتوفيق في التاسك!
