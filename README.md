@@ -3,7 +3,7 @@
 This repository documents the step-by-step process of installing **ROS 2 Humble** on **Ubuntu 22.04 LTS** via Windows Subsystem for Linux (WSL), along with the challenges faced during the setup.
 
 
-## 🛠️Installation Steps
+## Installation Steps
 
 1. **Enable and Install WSL & Ubuntu 22.04:**
 Installed the Ubuntu 22.04 distribution directly through PowerShell:
