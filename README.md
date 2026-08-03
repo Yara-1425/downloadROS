@@ -62,8 +62,8 @@ source ~/.bashrc
 During the installation process, a few issues were encountered and successfully resolved:
 
 1. **Secure Channel / Network Connection Error (`0x80072f7d`):**
-* **Problem:** An error occurred while downloading the Ubuntu distribution through PowerShell due to secure channel communication restrictions (often triggered by local firewall or network policies).
-* **Solution:** Temporarily paused third-party security software interference, verified the network stability, and re-executed the installation command cleanly.
+* **Problem:** An error occurred while downloading the Ubuntu distribution through PowerShell due to secure channel communication restrictions.
+* **Solution:** verified the network stability, and re-executed the installation command cleanly.
 
 
 2. **Typo in the Keyring Command:**
